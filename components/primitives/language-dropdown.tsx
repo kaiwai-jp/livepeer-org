@@ -49,12 +49,12 @@ const items = [
     locale: "zh",
   },
   {
-    flag: "JP",
+    flag: "🇯🇵",
     language: "Japanese",
     locale: "ja",
   },
   {
-    flag: "JP2",
+    flag: "🇯🇵2",
     language: "Japanese2",
     locale: "ja2",
   },
