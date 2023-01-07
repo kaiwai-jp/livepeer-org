@@ -1,0 +1,23 @@
+{
+  "page-about-title": "Livepeer.orgについて",
+  "page-about-intro": "Livepeer.orgは、Livepeerネットワークの参加者とユーザーのための主要なオンラインリソースです。",
+  "page-about-mission-1": "Livepeer.org",
+  "page-about-mission-2": "ミッション",
+  "page-about-mission-intro": "Livepeer.orgの目的は、参加者とユーザーにとってのLivepeerの最高のポータルになることです。",
+  "page-about-mission-text-one": "オープンソースソフトウェアのパワーを活かし、コンピューティングや帯域幅といった十分に活用されていないリソースを活用し、ブートストラップや参加への暗号経済的なインセンティブを利用することで、ビデオストリーミングアプリケーションを高効率な価格で、かつ無限に拡張できるインフラを提供することができます。",
+  "page-about-mission-text-two": "高画質カメラの普及や帯域のユビキタス化とともに、従来の中央集権的なコスト構造では不可能だったビデオアプリケーションを実現し、これからの社会のコミュニケーション、経済的機会、エンターテインメントを開放していくと考えています。",
+  "page-about-mission-text-three": "Livepeerに最高のポータルを提供することで、この機会を捉え、オリジナルのホワイトペーパーや 創設者のステートメントにあるプロジェクトのミッション - 世界のオープンなビデオインフラを構築すること - を実現する一助になりたいと考えています。",
+  "page-about-who": "Livepeer.orgの背後にいるのは誰？",
+  "page-about-text": "2017年、Livepeerプロジェクトの創設者たちは、その初期開発を促進し、ネットワークの供給側と需要側のブートストラップを行い、プロジェクトの非中央集権化への道筋を示すために、Livepeer, Inc.という会社を設立しました。",
+  "page-about-who-cta": "Livepeer, Inc.のご紹介",
+  "page-about-jobs": "Livepeer, Inc.への入社を希望される方",
+  "page-about-open-positions": "募集職種はこちら",
+  "page-about-maintainers": "Livepeer.orgメンテナンス担当者",
+  "page-about-maintainers-intro": "Livepeer.orgのサイトは、以下の組織のメンバーによって管理されています：",
+  "page-about-maintainers-dev": "デベロッパー",
+  "page-about-maintainers-pd": "プロダクトデザイナー",
+  "page-about-maintainers-text-one": "どなたでも、GitHubでイシューやプルリクエストを発行して、サイトの改善にご協力いただけます。プルリクエストを提出する際には、変更点を議論し、作業を反映させるために必要な時間を取ってください。",
+  "page-about-maintainers-text-two": "注意：Livepeer.orgは、公式サイトではありません。電子メールやビットコインの背後にある技術を誰も所有またはコントロールしていないのと同様に、Livepeerの背後にある技術も誰も所有またはコントロールしていません。このように、誰もLivepeerの名で権威をもって話すことはできません。",
+  "page-about-meta-title": "Livepeer.orgについて",
+  "page-about-meta-description": "Livepeer.orgは、Livepeerネットワークの参加者とユーザーのための主要なオンラインリソースです。"
+}
