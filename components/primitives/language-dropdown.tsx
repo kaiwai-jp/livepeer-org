@@ -54,9 +54,9 @@ const items = [
     locale: "ja",
   },
   {
-    flag: "🇯🇵2",
-    language: "Japanese2",
-    locale: "ja2",
+    flag: "🇯🇵",
+    language: "Japanesee",
+    locale: "jp",
   },
   {
     flag: "🇰🇷",
