@@ -49,6 +49,16 @@ const items = [
     locale: "zh",
   },
   {
+    flag: "🇯🇵",
+    language: "Japanese",
+    locale: "ja",
+  },
+  {
+    flag: "🇯🇵2",
+    language: "Japanese2",
+    locale: "ja2",
+  },
+  {
     flag: "🇰🇷",
     language: "Korean",
     locale: "ko",

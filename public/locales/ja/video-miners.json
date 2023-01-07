@@ -1,0 +1,30 @@
+{
+  "page-video-miners-title": "ビデオマイナー",
+  "page-video-miners-intro": "マイニングをしながらGPUでビデオをトランスコードすることで利益を上げよう。",
+  "page-video-miners-how": "ビデオマイニングの仕組み",
+  "page-video-miners-how-text-one": "Livepeerネットワークで、ビデオのトランスコーディングにかかる価格を宣伝するノードを走らせます。GPUで暗号通貨のマイニングを続けます。",
+  "page-video-miners-how-text-two": "ビデオエンコーディングの仕事が来ると、LivepeerノードがそのタスクをGPUにルーティングし、エンコーディングはGPUのマイニングとは別の部分を活用するため、ハッシュレートの損失を最小限に抑えながらマイニングを続けることができます。機会損失がないのです！",
+  "page-video-miners-numbers": "数字",
+  "page-video-miners-numbers-text": "Livepeerネットワークの容量は、7万以上のGPUへのアクセスを表していて、これはTwitch、Facebook、Youtubeを合わせたすべてのリアルタイムビデオストリーミングをエンコードするのに十分な量です。",
+  "page-video-miners-numbers-nodes": "45", //（←？、textと合っていない。）
+  "page-video-miners-numbers-nodes-text": "総アクティブノード数",
+  "page-video-miners-numbers-fees": "28.5 ETH", //（←？、textと合っていない。）
+  "page-video-miners-numbers-fees-text": "獲得した報酬の合計額",
+  "page-video-miners-numbers-cost": "Free", //（←？、textと合っていない。）
+  "page-video-miners-numbers-cost-text": "トランスコードされたビデオの総時間数（分）",
+  "page-video-miners-requirements": "必要要件",
+  "page-video-miners-requirements-intro": "ビデオマイナーになるには、以下のことが必要です：",
+  "page-video-miners-requirements-title-one": "ビデオエンコードチップを搭載したGPU",
+  "page-video-miners-requirements-text-one": "サポートマトリックスとコミュニティーディスカッションをご覧ください",
+  "page-video-miners-requirements-title-two": "手頃な価格の帯域幅へのアクセス",
+  "page-video-miners-requirements-text-two": "主要なISPへの接続が良好であること",
+  "page-video-miners-requirements-title-three": "ブロックチェーン認識型のLivepeerノードを24時間365日稼働させられること",
+  "page-video-miners-requirements-text-three": "この部分に興味がない場合は、既存のノードオペレーターとの提携を検討してください",
+  "page-video-miners-get-started": "はじめに",
+  "page-video-miners-get-started-intro": "3つのステップでビデオマイナーになろう。",
+  "page-video-miners-get-started-one": "Livepeerネットワークでのトランスコーディングに関するドキュメントを読む",
+  "page-video-miners-get-started-two": "ビデオマイナーのよくあるご質問を見る",
+  "page-video-miners-get-started-three": "Discordのチャットルーム、#transcodingチャンネルでLivepeerのチームやコミュニティーに声をかけてください。初期テストやセットアップにはDevOpsが必要な場合もありますので、お気軽にご相談ください。",
+  "page-video-miners-meta-title": "ビデオマイナー",
+  "page-video-miners-meta-description": "マイニングをしながらGPUでビデオをトランスコードすることで利益を上げよう。"
+}
