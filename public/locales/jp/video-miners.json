@@ -6,11 +6,11 @@
   "page-video-miners-how-text-two": "ビデオエンコーディングの仕事が来ると、LivepeerノードがそのタスクをGPUにルーティングし、エンコーディングはGPUのマイニングとは別の部分を活用するため、ハッシュレートの損失を最小限に抑えながらマイニングを続けることができます。機会損失がないのです！",
   "page-video-miners-numbers": "数字",
   "page-video-miners-numbers-text": "Livepeerネットワークの容量は、7万以上のGPUへのアクセスを表していて、これはTwitch、Facebook、Youtubeを合わせたすべてのリアルタイムビデオストリーミングをエンコードするのに十分な量です。",
-  "page-video-miners-numbers-nodes": "45",
+  "page-video-miners-numbers-nodes": "45", //（←？、textと合っていない。）
   "page-video-miners-numbers-nodes-text": "総アクティブノード数",
-  "page-video-miners-numbers-fees": "28.5 ETH",
+  "page-video-miners-numbers-fees": "28.5 ETH", //（←？、textと合っていない。）
   "page-video-miners-numbers-fees-text": "獲得した報酬の合計額",
-  "page-video-miners-numbers-cost": "Free",
+  "page-video-miners-numbers-cost": "Free", //（←？、textと合っていない。）
   "page-video-miners-numbers-cost-text": "トランスコードされたビデオの総時間数（分）",
   "page-video-miners-requirements": "必要要件",
   "page-video-miners-requirements-intro": "ビデオマイナーになるには、以下のことが必要です：",

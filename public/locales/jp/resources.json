@@ -5,8 +5,8 @@
   "page-resources-menu-education": "教育",
   "page-resources-menu-products": "製品＆ツール",
   "page-resources-menu-exchange": "取引所",
-  "page-resources-by": "By",
-  "page-resources-by-contributor": "By Livepeer contributor,",
+  "page-resources-by": "By", //（←、訳しようがない。）
+  "page-resources-by-contributor": "By Livepeer contributor,", //（←訳し方が難しい。）
   "page-resources-whitepaper": "Livepeerホワイトペーパー",
   "page-resources-whitepaper-text": "分散型ライブビデオストリーミングネットワークのためのプロトコルと経済的インセンティブ",
   "page-resources-streamflow": "Livepeer Streamflowペーパー",
@@ -34,8 +34,8 @@
   "page-resources-non-custodial": "ノンカストディアル取引所",
   "page-resources-custodial": "カストディアル取引所（アジア限定）",
   "page-resources-questions": "ご質問はありますか？",
-  "page-resources-questions-intro": "よくあるご質問をご覧ください。",
-  "page-resources-questions-text": "Livepeerに関するよくあるご質問をご紹介します。",
+  "page-resources-questions-intro": "よくあるご質問をご覧ください。", //（←、二重敬語？）
+  "page-resources-questions-text": "Livepeerに関するよくあるご質問をご紹介します。", //（←、二重敬語？）
   "page-resources-questions-button": "よくあるご質問を見る",
   "page-resources-meta-title": "リソース",
   "page-resources-meta-description": "Livepeerのエコシステムにおける重要なリソースのディレクトリです。"

@@ -31,7 +31,7 @@
   "nav-contact": "お問い合わせ",
   "copyright": "Copyright © 2020 Livepeer, Inc. 無断転載を禁じます。",
   "prefooter-questions": "ご質問はありますか？",
-  "prefooter-questions-intro": "よくあるご質問をご覧ください。",
-  "prefooter-questions-text": "Livepeerに関するよくあるご質問をご紹介します。",
+  "prefooter-questions-intro": "よくあるご質問をご覧ください。", //（←、二重敬語？）
+  "prefooter-questions-text": "Livepeerに関するよくあるご質問をご紹介します。", //（←、二重敬語？）
   "prefooter-questions-button": "よくあるご質問を見る"
 }
