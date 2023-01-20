@@ -1,10 +1,10 @@
 {
   "page-developers-title": "デベロッパー",
-  "page-developers-intro": "オープンで非中央集権型のLivepeerプロトコルを使用して、アプリケーションにライブおよびオンデマンドのビデオ体験を追加するためのガイドとさまざまなリソースをご覧ください。",
+  "page-developers-intro": "オープンで分散型のLivepeerプロトコルを使用して、アプリケーションにライブおよびオンデマンドのビデオ体験を追加するためのガイドとさまざまなリソースをご覧ください。",
   "page-developers-build-with": "開発しよう",
   "page-developers-public-network": "パブリックネットワーク",
   "page-developers-public-network-cta": "ドキュメントを見る",
-  "page-developers-decentralized": "非中央集権型",
+  "page-developers-decentralized": "分散型",
   "page-developers-decentralized-text": "Livepeerネットワークは、一企業や一個人がコントロールするものではありません。視聴者と直接つながるビデオアプリケーションを構築することができます。",
   "page-developers-cost": "低コスト",
   "page-developers-cost-text": "トランスコーディングを可能な限り低コストで実現するための暗号決済。",
