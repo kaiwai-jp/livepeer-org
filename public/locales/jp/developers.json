@@ -1,6 +1,6 @@
 {
   "page-developers-title": "デベロッパー",
-  "page-developers-intro": "オープンで分散型のLivepeerプロトコルを使用して、アプリケーションにライブおよびオンデマンドのビデオ体験を追加するためのガイドとさまざまなリソースをご覧ください。",
+  "page-developers-intro": "オープンで分散型のLivepeerプロトコルを使用してアプリケーションにライブおよびオンデマンドのビデオ体験を追加するためのガイドとさまざまなリソースをご覧ください。",
   "page-developers-build-with": "開発しよう",
   "page-developers-public-network": "パブリックネットワーク",
   "page-developers-public-network-cta": "ドキュメントを見る",
@@ -23,7 +23,7 @@
   "page-developers-open-source-cta": "コードを調べる",
   "page-developers-stats-contributors": "100+",
   "page-developers-stats-contributors-text": "GitHubコントリビューター",
-  "page-developers-stats-stargazers": "1K+", //（←Webの表示は”1k+”だが？）
+  "page-developers-stats-stargazers": "1k+",
   "page-developers-stats-stargazers-text": "スターゲイザー",
   "page-developers-stats-languages": "12",
   "page-developers-stats-languages-text": "言語",
