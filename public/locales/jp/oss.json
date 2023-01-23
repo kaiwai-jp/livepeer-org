@@ -2,7 +2,7 @@
   "page-oss-title": "Livepeerオープンソース",
   "page-oss-intro": "オープンウェブのためのオープンなビデオインフラ。",
   "page-oss-featured": "注目のオープンソースプロジェクト",
-  "page-oss-featured-text": "Livepeerのオープンソースソフトウェアには、Golang、Solidity、Typescript、ffmpegのようなオープンソースビデオツール、Ethereumのようなスマートコントラクトプラットフォームなどの技術が使用されています。", //（←？、Golangはそのままがいいか、Go言語と訳してしまった方がいいか？！）
+  "page-oss-featured-text": "Livepeerのオープンソースソフトウェアには、Go言語、Solidity、Typescript、ffmpegのようなオープンソースビデオツール、Ethereumのようなスマートコントラクトプラットフォームなどの技術が使用されています。",
   "page-oss-featured-cta": "すべてのプロジェクトを見る",
   "page-oss-featured-go": "Livepeerへ",
   "page-oss-featured-go-text": "Livepeerプロトコルの公式Go実装",
