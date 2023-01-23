@@ -15,11 +15,11 @@
   "page-tokenholders-stake-text-three": "プロトコル違反により発生するスラッシングを介した多くの攻撃からネットワークを保護します",
   "page-tokenholders-stake-cta": "Livepeerエクスプローラーを開く",
   "page-tokenholders-stats": "トークンホルダー統計情報",
-  "page-tokenholders-stats-staked": "13.5 M",
-  "page-tokenholders-stats-staked-text": "LPTの総ステーク数",
-  "page-tokenholders-stats-fees": "28.5 ETH", //（←、Webの表示と違う。）
-  "page-tokenholders-stats-fees-text": "支払報酬の総額", //（←Fees（手数料）？）
-  "page-tokenholders-stats-delegators": "2629", //（←、Webの表示と違う。）
+  "page-tokenholders-stats-staked": "13.6 M",
+  "page-tokenholders-stats-staked-text": "LPT総ステーク量",
+  "page-tokenholders-stats-fees": "378.6 k USD",
+  "page-tokenholders-stats-fees-text": "支払手数料総額",
+  "page-tokenholders-stats-delegators": "5211",
   "page-tokenholders-stats-delegators-text": "デリゲーター総数",
   "page-tokenholders-questions": "ご質問はありますか？",
   "page-tokenholders-questions-intro": "よくあるご質問をご覧ください。", //（←、二重敬語？）
