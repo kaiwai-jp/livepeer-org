@@ -22,8 +22,8 @@
   "page-tokenholders-stats-delegators": "5211",
   "page-tokenholders-stats-delegators-text": "デリゲーター総数",
   "page-tokenholders-questions": "ご質問はありますか？",
-  "page-tokenholders-questions-intro": "よくあるご質問をご覧ください。", //（←、二重敬語？）
-  "page-tokenholders-questions-text": "Livepeerに関するよくあるご質問をご紹介します。", //（←、二重敬語？）
+  "page-tokenholders-questions-intro": "よくあるご質問をご覧ください。",
+  "page-tokenholders-questions-text": "Livepeerに関するよくあるご質問をご紹介します。",
   "page-tokenholders-questions-button": "トークンホルダーに関するよくあるご質問",
   "page-tokenholders-meta-title": "トークンホルダー",
   "page-tokenholders-meta-description": "世界初のオープンソース、ピアツーピアビデオトランスコーディングプラットフォームであるLivepeerには、毎日数千人のトークンホルダーが参加しています。"
