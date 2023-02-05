@@ -54,11 +54,6 @@ const items = [
     locale: "ja",
   },
   {
-    flag: "🇯🇵",
-    language: "Japanese(temporary)",
-    locale: "jp",
-  },
-  {
     flag: "🇰🇷",
     language: "Korean",
     locale: "ko",
