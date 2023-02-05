@@ -16,7 +16,7 @@
   "page-about-maintainers-intro": "Livepeer.orgのサイトは、以下の組織のメンバーによって管理されています：",
   "page-about-maintainers-dev": "デベロッパー",
   "page-about-maintainers-pd": "プロダクトデザイナー",
-  "page-about-maintainers-text-one": "どなたでも、GitHubでイシューやプルリクエストを発行して、サイトの改善にご協力いただけます。プルリクエストを提出する際には、変更点を議論し、作業を反映させるために必要な時間を取ってください。",
+  "page-about-maintainers-text-one": "どなたでも、GitHubでIssueやPull Requestを発行して、サイトの改善にご協力いただけます。Pull Requestを提出する際には、変更点を議論し、作業を反映させるために必要な時間を取ってください。",
   "page-about-maintainers-text-two": "注意：Livepeer.orgは、公式サイトではありません。電子メールやビットコインの背後にある技術を誰も所有またはコントロールしていないのと同様に、Livepeerの背後にある技術も誰も所有またはコントロールしていません。このように、誰もLivepeerの名で権威をもって話すことはできません。",
   "page-about-meta-title": "Livepeer.orgについて",
   "page-about-meta-description": "Livepeer.orgは、Livepeerネットワークの参加者とユーザーのための主要なオンラインリソースです。"
